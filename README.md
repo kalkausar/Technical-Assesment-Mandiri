@@ -14,4 +14,4 @@
 
 ## SCREEN FLOW APPS
 
-<iframe src="PROJE-MANDIRI.PDF"></iframe>
+[embed]/PROJE-MANDIRI.PDF[/embed]
