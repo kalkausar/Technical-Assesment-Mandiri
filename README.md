@@ -1,17 +1,18 @@
 # ARSITEKTUR HIGH LEVEL
 
+![Preview Image](./Arsitektur-ARSITEKTUR.jpg)
+
 ## ERD
 
-  <a href="https://github.com/kalkausar/Technical-Assesment-Mandiri">
-    <img src="Arsitektur-ERD.jpg" alt="ERD" width="100%" height="100%">
-  </a>
+![Preview Image](./Arsitektur-ERD.jpg)
 
 ## ACTIVITY DIAGRAM
 
-<a href="https://github.com/kalkausar/Technical-Assesment-Mandiri">
-    <img src="Arsitektur-ACTIVITY-DIAGRAM.jpg" alt="ERD" width="100%" height="100%">
-</a>
+![Preview Image](./Arsitektur-ACTIVITY-DIAGRAM.jpg)
 
 ## SCREEN FLOW APPS
 
-[embed]/PROJE-MANDIRI.PDF[/embed]
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+<embed src="./PROJECT-MANDIRI.PDF">
+</embed>
+</object>
