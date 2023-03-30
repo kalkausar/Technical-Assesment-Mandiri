@@ -12,8 +12,20 @@
 
 ## SCREEN FLOW APPS
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-<embed src="./PROJECT-MANDIRI.pdf">
-<p>This browser does not support PDFs. Please download the PDF to view it: <a href="./PROJECT-MANDIRI.pdf">Download PDF</a>.</p>
-</embed>
-</object>
+- Halaman Login
+  ![Preview Image](./ScreenFlow/Login.jpg)
+
+- Halaman berikut merupakan halaman yang akan tampil pertama kali ketika proses registrasi
+  ![Preview Image](./ScreenFlow/Scan-KTP.jpg)
+
+- Halaman berikut merupakan halaman untuk mengambil foto KTP
+  ![Preview Image](./ScreenFlow/OCR.jpg)
+
+- Setelah mengambil foto KTP maka nasabah bisa melihat hasil foto KTP jika dirasa gambar blur atau tidak terlihat jelas dapat mengulangi tahapan untuk mengambil foto KTP
+  ![Preview Image](./ScreenFlow/OCR-Lanjut.jpg)
+
+- Setelah pengambilan foto KTP maka akan di proses autofill field-field pada halaman registrasi dengan menggunakan metode OCR
+  ![Preview Image](./ScreenFlow/Form-Register.jpg)
+
+- Setelah Proses login maka akan diarahkan ke halaman utama seperti berikut ini
+  ![Preview Image](./ScreenFlow/Halaman-Utama.jpg)
